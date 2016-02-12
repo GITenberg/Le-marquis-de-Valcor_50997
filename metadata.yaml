@@ -1,0 +1,23 @@
+_repo: Le-marquis-de-Valcor_50997
+creator:
+  author:
+    agent_name: Lesueur, Daniel
+    birthdate: 1860
+    deathdate: 1921
+    gutenberg_agent_id: '42911'
+    url: http://www.gutenberg.org/2009/agents/42911
+    wikipedia: http://fr.wikipedia.org/wiki/Jeanne_Lapauze
+description: ''
+gutenberg_bookshelf:
+- FR Littérature
+- FR Nouveautés
+gutenberg_issued: '2016-01-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '50997'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: Le marquis de Valcor
+url: http://www.gutenberg.org/ebooks/50997
